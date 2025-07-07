@@ -11,10 +11,6 @@ This project is a submission for the Assessli AI Hackathon. It is a fully voice-
 -   **Local Text-to-Speech:** Uses `pyttsx3` to generate audio on the user's machine, ensuring privacy.
 -   **Dynamic Performance Reports:** After the interview, a powerful agent analyzes the transcript to generate a structured report with a quantitative star rating and actionable feedback.
 
-## 🏛️ System Architecture
-
-![System Architecture Diagram](link_to_your_diagram_image.png)
-*(To get the image link, upload your Detailed Component Diagram to your GitHub repo and copy the link to the raw image file here.)*
 
 ## 🛠️ Setup & Installation
 
