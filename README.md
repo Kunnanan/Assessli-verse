@@ -2,7 +2,6 @@
 
 This project is a submission for the Assessli AI Hackathon. It is a fully voice-driven interview simulator powered by a local AI model (Ollama + Llama 3) for conversation and a high-speed cloud API (Groq) for transcription.
 
-**[Link to your 5-minute Demo Video Here]**
 
 ## ✨ Key Features
 
