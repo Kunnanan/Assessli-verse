@@ -1,0 +1,21 @@
+# requirements.txt 
+
+# Web Frameworks
+fastapi
+uvicorn[standard]
+streamlit
+python-multipart
+
+# AI & Machine Learning
+langchain
+langgraph
+langchain-groq # <-- The new, FAST LLM integration
+
+# Audio Processing
+groq           # For fast transcription
+pyttsx3
+pydub
+streamlit-audiorecorder
+
+# Utilities
+python-dotenv
